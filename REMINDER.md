@@ -49,11 +49,9 @@ The goal is to identify which banks benefit the most from a rising rate environm
 
 **中文：**
 
-1. **利率敏感性：** Barclays 與 Lloyds 的 β 約 0.19–0.20，對利率上升反應最強，
-     顯示其在升息循環中獲利能力明顯提升。
+1. **利率敏感性：** Barclays 與 Lloyds 的 β 約 0.19–0.20，對利率上升反應最強，顯示其在升息循環中獲利能力明顯提升。
 2. **匯率曝險：** HSBC 匯率 β 為 -0.14，顯示英鎊升值會壓縮其美元收入。
-3. **歐洲銀行：** BNP 與 Deutsche Bank 利率 β 約 0.21，對歐元區利率變化仍具敏感度，
-     但與英鎊匯率關聯性較低，代表業務多元化。
+3. **歐洲銀行：** BNP 與 Deutsche Bank 利率 β 約 0.21，對歐元區利率變化仍具敏感度，但與英鎊匯率關聯性較低，代表業務多元化。
 
 ---
 
@@ -101,8 +99,7 @@ The goal is to identify which banks benefit the most from a rising rate environm
 
 * 對利率敏感的英國銀行將在「長期高利率」環境中持續受益。
 * 匯率波動對跨國銀行與本土銀行的影響方向不同。
-* 本研究展示如何以量化方法將宏觀經濟變數與股票表現連結，
-   這正是 Equity Research 與 Sales & Trading 部門的重要能力。
+* 本研究展示如何以量化方法將宏觀經濟變數與股票表現連結，這正是 Equity Research 與 Sales & Trading 部門的重要能力。
 
 ---
 
