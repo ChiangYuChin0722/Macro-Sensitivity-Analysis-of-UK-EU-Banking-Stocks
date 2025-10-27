@@ -111,7 +111,3 @@ The goal is to identify which banks benefit the most from a rising rate environm
 **EN:** Python (pandas, statsmodels, seaborn), Data Cleaning & Visualization, Financial Modeling, Regression Analysis, Macroeconomic Interpretation.
 **中文：** Python 金融資料分析、資料清理與視覺化、財務建模、迴歸分析、宏觀經濟解讀。
 
----
-
-Would you like me to make this Reameder into a **formatted PowerPoint summary slide layout (with title + bilingual bullet structure + color/style guide)** next?
-這樣我可以直接給你每頁的版面配置（標題、字體、配色、圖表擺法），讓你一鍵在 PowerPoint 中重現英國投行報告風格。
